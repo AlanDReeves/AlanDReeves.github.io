@@ -1,45 +1,52 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Alan Reeves",
+    "label": "Student, Intern, National Guard Pilot",
+    "picture": "https://github.com/AlanDReeves.png",
+    "email": "alandr@hawaii.edu",
+    "phone": "808-892-5203",
+    "website": "https://AlanDReeves.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026. I am also a Computer Science intern with the Naval Information Warfare Center through the Veterans to Naval Careers program.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "AlanDReeves", "url": "https://github.com/AlanDReeves" },
+      { "network": "linkedin", "username": "Alan Reeves", "url": "www.linkedin.com/in/alan-reeves-063aa1328" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Data Science/Data Analytics" },
+    { "name": "Software Engineering" },
+    { "name": "Aviation" },
+    { "name": "Databases" },
+    { "name": "Full Stack Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C", "C++", "Java", "Javascript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows OS", "Git/GitHub", "g++/gcc" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Algorithms", "Software Engineering", "Program Structure", "Integral Calculus", "Data Structures"
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Japanese Language",
+      "studyType": "B.A.",
+      "startDate": "2016-08",
+      "endDate": "2021-05",
+      "courses": [ "4th year Japanese", "6 months study abroad at Japan University 日本大学 in Tokyo", "Japanese Literature in Translation"
       ]
     }
   ],

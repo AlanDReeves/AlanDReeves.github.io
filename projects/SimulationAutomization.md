@@ -30,4 +30,4 @@ Below is a screen capture of one prototype of the GUI.
 
 One version of the project also allowed a visualization of previously captured data to be recreated.
 
-<img class="img-fluid" src="../img/dataVis">
+<img class="img-fluid" src="../img/dataVis.png">

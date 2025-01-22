@@ -52,74 +52,63 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Veterans to Naval Careers/Naval Information Warfare Center",
+      "position": "Computer Science Intern",
+      "website": "https://veteranstonavalcareers.org/",
+      "startDate": "2024-11-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist research and development at the Navy Information Warfare Center with computer science support",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed an AI powered software project to optimize and automate simulation testing",
+        "Assist in generating hydrogen gas in a chemistry lab for research projects"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaii Army National Guard",
+      "position": "Blackhawk helicopter pilot 153A",
+      "website": "https://dod.hawaii.gov/hiarng/",
+      "startDate": "2015-08-31",
+      "endDate": "Present",
+      "summary": "Responsible for operating UH-60 Blackhawk helicopter",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain working knowledge of federal and local flying regulations",
+        "Fly in all weather, day or night"
       ]
     }
   ],
-  "volunteer": [
+  "Extracurricular": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Programs and Algorithms Club (PandA Club)",
+      "website": "https://panda.acmmanoa.org/",
+      "position": "Club Member",
+      "startDate": "2024-01-15",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Work in teams to solve coding challenges with efficient algorithms",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Work with different teams every week",
+        "Solve problems of increasing difficulty within the same general concept"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Honor Graduate",
+      "date": "2024",
+      "awarder": "US Army Flight School at Fort Novosel",
+      "summary": "Placed within the top 5 in my flight school class in academic performance"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2018, 2020, 2021, 2024",
+      "awarder": "University of Hawaii",
+      "summary": "Finished semester with no less than 3.8 GPA"
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "Dr. Richard Ordonez": "Head of NIWC Graphene lab",
+      "1LT Gabrielle Wertzebaugher": "1st Platoon leader C co 1 - 183 Av, HIARNG",
+      "Contact Information" : "Available upon request"
     }
   ]
 }

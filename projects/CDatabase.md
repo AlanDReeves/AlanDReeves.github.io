@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/databaseSquare.png
 title: "C/C++ Database"
 date: 2024
-published: false
+published: true
 labels:
   - C
   - C++
@@ -22,7 +22,7 @@ One of the functions of these programs was that it would read an existing file a
 
 Below is a capture of what the text interface looks like.
  
-//image
+<img class="img-fluid" src="../img/c++TextSnip.png">
 
 The following is an exerpt from my C++ code:
 ```cpp

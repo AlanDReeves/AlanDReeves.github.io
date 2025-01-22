@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/portSceneSquare.png
 title: "Simulation Automization"
 date: 2025
-published: false
+published: true
 labels:
   - Machine Learning
   - AI
@@ -14,9 +14,9 @@ summary: "I developed a program which automates testing in Ansys High Frequency 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/bayes.png" class="img-thumbnail" >
+  <img width="200px" src="../img/ansysHFSS.png" class="img-thumbnail" >
+  <img width="200px" src="../img/portScene" class="img-thumbnail" >
 </div>
 
 While working at my internship with the Naval Information Warfare Center (NIWC), I assisted the graphene lab by creating a program which automates testing in Ansys HFSS.

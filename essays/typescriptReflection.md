@@ -9,7 +9,7 @@ labels:
   - TypeScript
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/TypeScriptLogo.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/tyepscriptLogo.png">
 
 Recently for a software engineering class I have been learning TypeScript. In all honesty, I have to say that it is the first programming language I have come across that I do not immediately like. Through my so far short career in computer science, I have used quite a few languages, but my best are probably Python and C. They are also the languages which I like best. TypeScript strikes me as being closer to Python in that types are optional but it has a certain ambiguity that I am not quite comfortable with. 
 

@@ -28,4 +28,6 @@ If a player chooses to “hold”, their turn total is added to their score, and
 
 The first player to 100 or more points wins.
 
-This was one of my earliest projects in computer science and so it is based on similar, unfinished code provided as a template by Dr. Cam Moore from UH Manoa. The version I made uses the Java Swing framework to make a graphical interface for the game and the source code consists of several class files which interact with one another. This graphical version was a cap stone to the several earlier versions I made in class, which did not all feature a graphical interface. 
+The beginning pieces of this project were my introduction to computer programming, so I learned many of the basic concepts through this project. I learned such basic concepts as taking user input, generating pseudo-random numbers, and how to use several class files together. In addition to those, I learned how to use some pieces of the Swing framework, which was quite difficult. 
+
+This was one of my earliest projects in computer science and so it is based on an unfinished template created by Professor Cam Moore from UH Manoa. There were no other students involved in this project. This graphical version was a cap stone to the several earlier versions I made in class, which did not all feature a graphical interface. 

@@ -33,3 +33,5 @@ While I have been mostly negative on TypeScript until this point, there is one t
 ## Final thoughts
 
 In conclusion, I suppose I am cautiously optimistic about TypeScript. There are a few features of TypeScript that I find strange but some that seem very useful. It seems to me that the style of TypeScript, or at least the intended style, is quite different from what I am used to and I wonder what function that style serves. For now, only time will tell.
+
+No AI was used in writing this essay

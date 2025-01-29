@@ -19,8 +19,7 @@ At times like these, the best way to solve these questions is of course to ask s
 In 2001, Eric Raymond and Rick Moen wrote a sort of guide on exactly this kind of thing, entitled “How to Ask Questions the Smart Way.” The points they made largely hold true today, and you can still see the difference between asking what they would outline as a smart question and asking a “not so smart” question. 
 
 ## "Not so Smart" Questions
-
-<img width="582px" class="rounded float-start pe-4" src="../img/dumbQuestion.png">
+<img class="img-fluid" src="../img/dumbQuestion.png">
 
 The best example of a “not so smart” question I can give is one I found on Stack Overflow where some new user asks “What does ‘if __name__ == main’ do?” in almost exactly that amount of words. 
 I think this is almost the prototypical not so smart question. 
@@ -30,8 +29,7 @@ It is exactly the kind of question that Raymond or Moen would answer with “STF
 This is a perfect example of what happens when you ask a bad question: you get a bad answer.
 
 ## Smart Questions
-
-<img width="816px" class="rounded float-start pe-4" src="../img/smartQuestion.png">
+<img class="img-fluid" src="../img/smartQuestion.png">
 
 The image above is cut off but goes on for quite a bit longer.
 

@@ -40,7 +40,7 @@ This hits all the highlights of what a good question should be, in my opinion.
 All the context required is there, the user has clearly tried to answer his own question first, and he even points to the exact line which is supposed to be causing an exception. Consequently, he gets an answer back that is only about one sentence long and solves his problem succinctly. 
 This is exactly what one should aim for when asking a question. No time is wasted by anyone, and there is enough information provided to actually help someone who wants to answer.
 
- ## Garbage In - Garbage Out
+## Garbage In - Garbage Out
  
  In conclusion, asking technical questions often follows the golden rule of garbage in – garbage out. 
 To get a useful answer, or any answer at all really, it’s important to provide context to the people or person you are asking, and to be specific in what your exact problem is. 

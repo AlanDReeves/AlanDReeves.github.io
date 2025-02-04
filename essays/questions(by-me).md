@@ -42,7 +42,7 @@ This is exactly what one should aim for when asking a question. No time is waste
 
 ## Garbage In - Garbage Out
  
- In conclusion, asking technical questions often follows the golden rule of garbage in – garbage out. 
+In conclusion, asking technical questions often follows the golden rule of garbage in – garbage out. 
 To get a useful answer, or any answer at all really, it’s important to provide context to the people or person you are asking, and to be specific in what your exact problem is. 
 For questions like the first example, search the web. 
 

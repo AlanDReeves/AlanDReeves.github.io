@@ -11,7 +11,7 @@ labels:
   - Coursework
 ---
 ## "The Standard is the Standard"
-<img class="img-fluid" src="../img/mikeTomlin.jpg">
+<img width="474" class="rounded float-start pe-4" src="../img/mikeTomlin.jpg">
 
 
 When it comes to coding style, many college professors seem to take a page out of the Pittsburgh Steelers’ Mike Tomlin’s playbook. 

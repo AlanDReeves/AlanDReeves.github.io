@@ -12,6 +12,8 @@ labels:
 ---
 ## "The Standard is the Standard"
 <img class="img-fluid" src="../img/mikeTomlin.jpg">
+
+
 When it comes to coding style, many college professors seem to take a page out of the Pittsburgh Steelers’ Mike Tomlin’s playbook. 
 They say that the standard is the standard and no deviation is allowed. Certainly there seem to be some good reasons to enforce certain elements of style standards, but I feel like in many cases readability is actually decreased by following preset rules so strictly. 
 

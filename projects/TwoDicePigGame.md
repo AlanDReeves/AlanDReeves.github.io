@@ -4,7 +4,7 @@ type: project
 image: img/pigDiceGameSquare.png
 title: "Two Dice Pig Game"
 date: 2024
-published: true
+published: false
 labels:
   - Java
   - Swing

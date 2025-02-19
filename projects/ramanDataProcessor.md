@@ -26,4 +26,4 @@ A screen cap of the GUI at time of writing.
 In this project I gained a much greater understanding of Python overall, as well as some of the more useful packages that are publicly available. This was also the first project that I actually put on github, so I learned how to use github while developing this.
 One of my goals in this project was to get a better understanding of the Qt5 framework so that I could use it more in future projects, and I believe I accomplished that as well.
 
-There were no teams for this project, so all of the work was done by me.
+There were no other computer scienctists on the team at this time, so 100% of the code was created by me.

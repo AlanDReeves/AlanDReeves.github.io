@@ -9,7 +9,7 @@ labels:
   - Nextjs
 ---
 
-<img width="200" class="rounded float-start pe-4" src="../img/finalProject/UHCourt.jpg">
+<img width="500" class="rounded float-start pe-4" src="../img/finalProject/UHCourt.jpg">
 
 ## Overview ##
 At the Warrior Rec Center, there is limited space and many people who want to use the courts to play basketball or volleyball. 

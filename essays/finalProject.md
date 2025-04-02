@@ -8,6 +8,9 @@ labels:
   - Software Engineering
   - Nextjs
 ---
+
+<img width="200" class="rounded float-start pe-4" src="../img/finalProject/UHCourt.jpg">
+
 ## Overview ##
 At the Warrior Rec Center, there is limited space and many people who want to use the courts to play basketball or volleyball. 
 
@@ -30,13 +33,13 @@ Angelo Rosal
 ## Mockup Page Ideas ##
 Our web app would contain the following pages:
 
-login and sign up page
+- login and sign up page
 
-schedule page showing times already reserved
+- schedule page showing times already reserved
 
-page to reserve times for a group
+- page to reserve times for a group
 
-looking for team page, where players without a group can find one
+- looking for team page, where players without a group can find one
 
 
 ## Use Case Ideas ##
@@ -49,10 +52,10 @@ There are two basic use cases for our web app:
 ## Beyond the Basics ##
 Some additional features which could be included after the basics are finished are:
 
-Dynamic Programming algorithm to ensure maximum court usage
+- Dynamic Programming algorithm to ensure maximum court usage
 
-Introductory tour to the web app for new users
+- Introductory tour to the web app for new users
 
-Group match making service to organize games between groups
+- Group match making service to organize games between groups
 
-Tournament bracket function to run basketball/volleyball tournaments
+- Tournament bracket function to run basketball/volleyball tournaments

@@ -9,7 +9,7 @@ labels:
   - Nextjs
 ---
 
-<img width="400" class="rounded float-start pe-4" src="../img/finalProject/UHCourt.jpg">
+<img width="500" class="rounded float-start pe-4" src="../img/finalProject/UHCourt.jpg">
 
 ## Overview ##
 At the Warrior Rec Center, there is limited space and many people who want to use the courts to play basketball or volleyball. 
@@ -18,6 +18,8 @@ This gets especially bad after 5pm, when it can be hard to get a spot on the cou
 
 Our final project is a web app that seeks to solve this problem by allowing students to reserve time on the courts for their groups, and to look for groups to join.
 
+
+<div style="clear: both;"></div>
 
 ## Group Members ##
 Maya Buchanan

@@ -9,7 +9,7 @@ labels:
   - Full Stack
 ---
 
-<img class="img-fluid" src="img\designPatterns\MVCDiagram.png">
+<img class="img-fluid" src="../img/designPatterns/MVCDiagram.png">
 ## Something I Learned by Accident ##
 A few months ago, I was exploring different python UI options for software tools I was developing for my internship.
 I experimented with PySide6, PyQT5, PyQT6, and some others and while I felt that I was doing good enough work,

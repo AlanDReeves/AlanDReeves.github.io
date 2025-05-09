@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - Time Management
 ---
+<img class="img-fluid" src="../img/workEstimation/timePassing.jpg">
 
 Over the last few weeks, I have been participating in effort estimation for a group web app project I have been participating in.
 I recorded how long I expected a task to take and then compared it to how long it actually took.

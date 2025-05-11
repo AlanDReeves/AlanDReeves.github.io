@@ -9,6 +9,8 @@ labels:
   - AI
   - Software Engineering
 ---
+<img width="200" class="rounded float-start pe-4" src="../img/AI/AISoftwareEngineer.png">
+
 
 ## Introduction
 Everyone's favorite topic in recent times is AI and how it is changing both education and computer science in particular. 

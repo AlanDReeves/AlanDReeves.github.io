@@ -9,7 +9,7 @@ labels:
   - AI
   - Software Engineering
 ---
-<img width="200" class="rounded float-start pe-4" src="../img/AI/AISoftwareEngineer.png">
+<img width="300" class="rounded float-start pe-4" src="../img/AI/AISoftwareEngineer.png">
 
 
 ## Introduction

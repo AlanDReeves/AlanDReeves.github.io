@@ -19,21 +19,20 @@ We developed GamePlan using Next.js, React, and Node, among other resources.
 The project was made for its own sake as an education tool, and so it is not used by the rec center.
 
 <div class="text-center p-4">
-    <div class="col">
-        <div class="col">
-            <img width="400px" src="../img/GamePlan/LandingPage.PNG" alt="landing page">
-        </div>
-        <div class="row">
-            <img width="400px" src="../img/GamePlan/TodaySchedule.PNG" alt="landing page">
-        </div>
-        <div class="row">
-            <img width="400px" src="../img/GamePlan/SchedulePage.PNG" alt="landing page">
-        </div>
-        <div class="row">
-            <img width="400px" src="../img/GamePlan/SignUp.PNG" alt="landing page">
-        </div>
+    <div>
+        <img width="400px" src="../img/GamePlan/LandingPage.PNG" alt="landing page">
+    </div>
+    <div>
+        <img width="400px" src="../img/GamePlan/TodaySchedule.PNG" alt="Volleyball Games page">
+    </div>
+    <div>
+        <img width="400px" src="../img/GamePlan/SchedulePage.PNG" alt="All days schedule page">
+    </div>
+    <div>
+        <img width="400px" src="../img/GamePlan/SignUp.PNG" alt="sign up page">
     </div>
 </div>
+
 
 ## My Contribution
 I created several of the pages, including the sign in/sign up/sign out pages and the landing page.

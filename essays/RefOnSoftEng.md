@@ -47,3 +47,5 @@ This class showed me that it would be wise to learn some more of these design pa
 ## Wrapping Up
 While almost all of the direct experience I got in ICS 314 was focused on web development, there is clearly a lot to apply to all contexts.
 Taking this class greatly changed the way I intend to organize projects in the future and gave me some good ideas for what I can study in the future.
+
+Image provided by chatGPT image generation

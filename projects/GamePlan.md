@@ -17,10 +17,12 @@ The idea was thought up by one of our group members who enjoys playing a the rec
 The app has different pages for volleyball and basketball, allows users to sign in, shows what games are reserved, and allows users to track scores for games that are going on today.
 We developed GamePlan using Next.js, React, and Node, among other resources.
 The project was made for its own sake as an education tool, and so it is not used by the rec center.
-<img width="400px" src="../img/GamePlan/LandingPage.PNG" alt="landing page">
-<img width="400px" src="../img/GamePlan/TodaySchedule.PNG" alt="landing page">
-<img width="400px" src="../img/GamePlan/SchedulePage.PNG" alt="landing page">
-<img width="400px" src="../img/GamePlan/SignUp.PNG" alt="landing page">
+<div class="text-center p-4">
+    <img width="400px" src="../img/GamePlan/LandingPage.PNG" alt="landing page">
+    <img width="400px" src="../img/GamePlan/TodaySchedule.PNG" alt="landing page">
+    <img width="400px" src="../img/GamePlan/SchedulePage.PNG" alt="landing page">
+    <img width="400px" src="../img/GamePlan/SignUp.PNG" alt="landing page">
+</div>
 
 ## My Contribution
 I created several of the pages, including the sign in/sign up/sign out pages and the landing page.

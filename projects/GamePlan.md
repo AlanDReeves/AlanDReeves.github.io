@@ -20,16 +20,16 @@ The project was made for its own sake as an education tool, and so it is not use
 
 <div class="text-center p-4">
     <div>
-        <img width="400px" src="../img/GamePlan/LandingPage.PNG" alt="landing page">
+        <img width="70%" src="../img/GamePlan/LandingPage.PNG" alt="landing page">
     </div>
     <div>
-        <img width="400px" src="../img/GamePlan/TodaySchedule.PNG" alt="Volleyball Games page">
+        <img width="70%" src="../img/GamePlan/TodaySchedule.PNG" alt="Volleyball Games page">
     </div>
     <div>
-        <img width="400px" src="../img/GamePlan/SchedulePage.PNG" alt="All days schedule page">
+        <img width="70%" src="../img/GamePlan/SchedulePage.PNG" alt="All days schedule page">
     </div>
     <div>
-        <img width="400px" src="../img/GamePlan/SignUp.PNG" alt="sign up page">
+        <img width="70%" src="../img/GamePlan/SignUp.PNG" alt="sign up page">
     </div>
 </div>
 

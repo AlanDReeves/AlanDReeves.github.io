@@ -32,7 +32,7 @@ This project is still ongoing.
 
 ## About MODIS data and spectroradiometry
 <div class="text-center p-4">
-    <img src="../img/MODIS/MODIS.png" alt="Earth Data">
+    <img src="../img/MODIS/MODIS.png" alt="Earth Data" width="200px">
 </div>
 <p> Spectroradiometry is a process of analyzing the differing strength of light reflecting off of a surface in certain wavelength ranges, visible and invisible, to determine the nature of a substance. </p>
 <p>MODIS stands for Moderate Resolution Imaging Spectroradiometer. 
@@ -54,6 +54,6 @@ In fact, most of the difficulty in this project has come from the HDF4 format us
 This project has also given me exposure to machine learning algorithms, which I find very exciting. 
 I have used scikit-learn and its associated resources for parts of this and it has been very informative.
 
-## Source Code/Organization
+## Source Code
 I have been asked by my employer not to share source code or some of the specifics of this project. 
 Please let me know if you would like more information and I will inquire about making an exception.

@@ -44,5 +44,5 @@ I definitely think I have much to learn about PgAdmin4 but this was good exposur
 There was also some time pressure to complete specific milestones within time limits so I learned both how long it should take to complete features and how long it actually takes me currently to do them.
 
 
-## Source Code/Organization
+## Source Code
 The source code is in a public repository on my github, <a href="https://github.com/AlanDReeves/digits"> here </a>.

@@ -31,3 +31,5 @@ One version of the project also allowed a visualization of previously captured d
 I learned quite a lot from this project. This was actually my first project which used another program's API. Figuring out the API was sometimes quite difficult, despite the relatively good documentation. Of course, this was also my first machine learning/AI project, although implementing that was surprisingly straight forward. The package I used came from the [pypi.org](https://pypi.org/project/bayesian-optimization/) website and was easy enough to apply to the task, though I had to change my program structure to giving the optimization function a black box with too many parameters. 
 
 I am responsible for roughly 95% of the code on this project. I did receive some advice from [Alvin Yang](https://www.linkedin.com/in/alvinyang101/), a graduate student with the electrical engineering department, which was very helpful. 
+
+I have been asked by my employer not to share source code for this project.

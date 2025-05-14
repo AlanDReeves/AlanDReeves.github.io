@@ -4,7 +4,7 @@ type: essay
 title: "The Standard is the Standard"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-10
-published: true
+published: false
 labels:
   - Coding standards
   - Coding

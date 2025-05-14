@@ -27,7 +27,6 @@ My estimates were so severely off from reality that it didn't really help my pla
 The biggest reason for this was that during certain tasks, inevitably some unexpected bug or problem would come up and it would take an unpredictable amount of time to fix.
 Things that I expected to take 15 minutes took 4 hours from time to time.
 Of course, it didn't matter if my estimation was off, I had to get the task done anyway, and usually there was a significant factor of time.
-Ultimately it did not matter if my estimation was off since I had to spend the time either way.
 
 ## Recording the Actual Effort
 If there was some upside to tracking the actual effort, it was in the small catharsis in seeing the large numbers pile up.
@@ -42,3 +41,5 @@ In practice, most of my values ended up being rounded to a multiple of 15 minute
 On the bright side, tracking these took almost no time. 
 All the time I needed was however long it took to check the clock two times.
 Of course, I have to wonder if my lack of results from this is due to my lack of time spent.
+
+No AI was used in making this essay.

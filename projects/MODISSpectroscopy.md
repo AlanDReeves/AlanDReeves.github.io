@@ -16,8 +16,9 @@ summary: "Analysis of Nasa's MODIS spectroradiometry data"
 <div class="text-center p-4">
     <img src="../img/MODIS/EarthData.png" alt="Earth Data">
 </div>
+
 ## Overview
-The purpose of this project is to analyze NASA's MODIS spectroradiometry data, which is continuously recorded by satelite.
+The purpose of this project is to analyze NASA's MODIS spectroradiometry data, which is continuously recorded by satellite.
 MODIS data is used for a wide variety of purposes, including environmental science, tracking levels of plankton in water, and many more.
 For this project, I took publicly available spectrometry data from NASA's MODIS website, processed it by removing data marked as bad, and removing data which were altered by the presence of clouds. 
 I then converted it to a form that is easily fed to a logistic regression model to detect the presence of certain substances. 
@@ -32,11 +33,11 @@ This project is still ongoing.
 
 ## About MODIS data and spectroradiometry
 <div class="text-center p-4">
-    <img src="../img/MODIS/MODIS.png" alt="Earth Data" width="200px">
+    <img src="../img/MODIS/MODIS.png" alt="Earth Data" width="200px" class="img-fluid">
 </div>
 <p> Spectroradiometry is a process of analyzing the differing strength of light reflecting off of a surface in certain wavelength ranges, visible and invisible, to determine the nature of a substance. </p>
 <p>MODIS stands for Moderate Resolution Imaging Spectroradiometer. 
-MODIS data is recorded by satelite across 36 wavelength bands and includes both radiance and reflectance data.
+MODIS data is recorded by satellite across 36 wavelength bands and includes both radiance and reflectance data.
 For more information, see the MODIS Website <a href="https://www.earthdata.nasa.gov/data/instruments/modis"> here </a></p>
 
 ## My Contribution
@@ -46,7 +47,7 @@ I have created prototypes for logistic regression models using existing open sou
 
 ## What I learned
 I would say that this has been one of my most challenging projects.
-It has been my first major data science/data visualization project and so I have discovered many the tools that are used for these purposes.
+It has been my first major data science/data visualization project and so I have discovered many of the tools that are used for these purposes.
 I have become somewhat familiar with QGIS, a geographic information system which allows users to visualize data on maps. 
 I have also obtained a good deal of experience with MODIS data itself, which is in a very complex format for which there is a roughly 100 page user manual. 
 This project has also taught me about the HDF4 and GeoTIFF file formats as well as the Python libraries that interact with them. 

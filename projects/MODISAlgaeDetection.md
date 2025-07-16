@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MODIS/MODISSquare.png
+image: img/MODIS/SquareNOAASnip.png
 title: "Detecting Algal Blooms from Satelite Data with Machine Learning"
 date: 2025
 published: True
@@ -11,7 +11,7 @@ labels:
   - Machine Learning
   - Python
   - QGIS
-summary: "Analysis of Nasa's MODIS spectroradiometry data"
+summary: "Detecting Algae Blooms with Machine Learning and Satelite Data"
 ---
 
 ## Overview
@@ -46,6 +46,12 @@ I originally used a 4 parameter model, using bands 1-4 like the later 5 paramete
 To correct this, I decided to use the 4 paramter model to classify land and water instead and provide that to a 5 parameter algae detection model as described above.
 To do this, I simply reused my already written code and changed the training data to indicate land or water instead of algae or no algae.
 This was very succesful and helped avoid false positives in later algae detection.
+
+<div class="row">
+    <div class="col">
+        <img width="30%" src="../img/AlgaeDetection/4BandAlgaeDetection.png" alt="Lake Erie Algae">
+    </div>
+</div>
 
 <div class="row">
     <div class="col">

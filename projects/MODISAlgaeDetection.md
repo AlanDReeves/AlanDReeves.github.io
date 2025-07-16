@@ -49,13 +49,10 @@ This was very succesful and helped avoid false positives in later algae detectio
 
 <div class="row">
     <div class="col">
-        <img width="30%" src="../img/AlgaeDetection/4BandAlgaeDetection.png" alt="Lake Erie Algae">
+        <img width="60%" src="../img/AlgaeDetection/4BandAlgaeDetection.png" alt="Lake Erie Algae">
     </div>
-</div>
-
-<div class="row">
     <div class="col">
-        <img width="30%" src="../img/AlgaeDetection/waterDetectionSnip.png" alt="Lake Erie Algae">
+        <img width="60%" src="../img/AlgaeDetection/waterDetectionSnip.png" alt="Lake Erie Algae">
     </div>
 </div>
 

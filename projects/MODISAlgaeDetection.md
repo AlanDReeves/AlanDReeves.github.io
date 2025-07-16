@@ -27,10 +27,10 @@ I chose this algorithm because I thought that the voting nature of the algorithm
 ### 5 parameter model
 <div class="row">
     <div class="col">
-        <img width="30%" src="../img/AlgaeDetection/results_with_water_detection.png" alt="Lake Erie Algae">
+        <img width="60%" src="../img/AlgaeDetection/results_with_water_detection.png" alt="Lake Erie Algae">
     </div>
     <div class="col">
-        <img width="30%" src="../img/AlgaeDetection/NOAA Snip.png" alt="Lake Erie Algae">
+        <img width="60%" src="../img/AlgaeDetection/NOAA Snip.png" alt="Lake Erie Algae">
     </div> 
 </div>
 

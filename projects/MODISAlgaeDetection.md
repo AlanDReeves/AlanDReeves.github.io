@@ -27,8 +27,11 @@ I chose this algorithm because I thought that the voting nature of the algorithm
 ### 5 parameter model
 <div class="row">
     <div class="col">
-        
+        <img width="30%" src="../img/AlgaeDetection/results_with_water_detection.png" alt="Lake Erie Algae">
     </div>
+    <div class="col">
+        <img width="30%" src="../img/AlgaeDetection/NOAA Snip.png" alt="Lake Erie Algae">
+    </div> 
 </div>
 
 The current best model I have created consideres MODIS bands 1-4 as well as another 4 parameter model's prediction indicating the probability that the given pixel from which the bands were taken is an image of water.
@@ -43,6 +46,12 @@ I originally used a 4 parameter model, using bands 1-4 like the later 5 paramete
 To correct this, I decided to use the 4 paramter model to classify land and water instead and provide that to a 5 parameter algae detection model as described above.
 To do this, I simply reused my already written code and changed the training data to indicate land or water instead of algae or no algae.
 This was very succesful and helped avoid false positives in later algae detection.
+
+<div class="row">
+    <div class="col">
+        <img width="30%" src="../img/AlgaeDetection/waterDetectionSnip.png" alt="Lake Erie Algae">
+    </div>
+</div>
 
 ### Warp correction
 One of the largest issues I faced with this project was the format of the source data.

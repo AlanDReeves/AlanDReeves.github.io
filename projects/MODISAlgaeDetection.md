@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/MODIS/SquareNOAASnip.png
+image: img/AlgaeDetection/SquareNOAASnip.png
 title: "Detecting Algal Blooms from Satelite Data with Machine Learning"
 date: 2025
 published: True

@@ -4,7 +4,7 @@ type: project
 image: img/MODIS/MODISSquare.png
 title: "Spectroradiometry Data Analysis"
 date: 2025
-published: True
+published: False
 labels:
   - Data Science
   - Spectroradiometry
